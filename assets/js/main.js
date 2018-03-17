@@ -1,3 +1,4 @@
+
 /*
 	Halcyonic by HTML5 UP
 	html5up.net | @ajlkn
@@ -41,7 +42,7 @@
 			// Title Bar.
 				$(
 					'<div id="titleBar">' +
-						'<a href="#navPanel" class="toggle"></a>' +
+						'<a href="#navPanel"></a>' +
 						'<span class="title">' + $('#logo').html() + '</span>' +
 					'</div>'
 				)
